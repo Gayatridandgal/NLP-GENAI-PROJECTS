@@ -40,13 +40,19 @@ streamlit run app.py
 
 ---
 
-## 🚀 Setup & Installation  
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/Gayatridandgal/NLP-GEN-AI-PROJECTS.git  
-cd NLP-GEN-AI-PROJECTS  
-pip install -r requirements.txt  
-```
+## Installation  
+Requirement List: 
+streamlit
+google-generativeai
+python-dotenv
+
+---
+## API
+Use GEMINI API KEY
+
+---
+
+
 
 ---
 
