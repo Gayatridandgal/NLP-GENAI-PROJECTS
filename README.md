@@ -48,7 +48,7 @@ python-dotenv
 
 ---
 ## API
-Use GEMINI API KEY
+Use GEMINI API KEY [generate api from google studio]
 
 ---
 
